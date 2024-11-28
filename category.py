@@ -6,7 +6,7 @@ sns.set(style="whitegrid")
 # analyze the number of trending videos by category
 from googleapiclient.discovery import build
 
-API_KEY = 'AIzaSyCj0a8puuK-vPmXQboeWmIxlb597uv8GTo'
+API_KEY = 'YOUR_API_KEY'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_category_mapping():
