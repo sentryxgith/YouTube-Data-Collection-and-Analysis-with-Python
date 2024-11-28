@@ -79,6 +79,16 @@ YouTube-Data-Collection-and-Analysis-with-Python/
 - **Time Trends**: Understand how upload times affect video popularity.
 
 ---
+## Charts
+![View, Like and Comment Count Distribution](https://github.com/user-attachments/assets/b762e8dc-0f14-4741-bc74-9ae3115dea7e)
+![Correlation Matrix of Engagement Metrics](https://github.com/user-attachments/assets/02a549dd-59f0-4831-931e-7c1cc3863e1f)
+![Number of Trending Videos by Category](https://github.com/user-attachments/assets/805e3b21-c877-4511-9d30-8e3c366195a0)
+![Average View, Like and Comment Count by Category](https://github.com/user-attachments/assets/fc59cf4e-2f5f-412f-94d7-de2c53805394)
+![Video Length vs View Count](https://github.com/user-attachments/assets/06b4f0ab-3d39-440a-9a92-a31e484ebe9d)
+![Average View, Like and Comment Count by Duration Range](https://github.com/user-attachments/assets/b8a5f2f7-1fbc-46b6-8bf3-cdd760c350cf)
+![Number of Tags vs View Count](https://github.com/user-attachments/assets/42b7e579-6ece-4df9-97fd-794c726130b7)
+![Distribution of Videos by Publish Hour](https://github.com/user-attachments/assets/c686a67e-d0de-436f-9cd6-50b3684757a0)
+![Publish Hour vs View Count](https://github.com/user-attachments/assets/6a92b764-59b0-43a3-a7d2-437f196f632d)
 
 ## Contributing
 
