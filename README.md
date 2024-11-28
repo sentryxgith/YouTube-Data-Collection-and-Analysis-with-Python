@@ -1,4 +1,3 @@
-```markdown
 # YouTube Data Collection and Analysis with Python
 
 A Python-based project for collecting and analyzing YouTube data using the YouTube Data API. This project demonstrates how to fetch YouTube video metadata, preprocess the data, and perform exploratory data analysis (EDA) to gain insights into video trends, performance, and content engagement.
